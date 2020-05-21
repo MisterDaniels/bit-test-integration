@@ -5,6 +5,8 @@ import './index.css';
 import ProductList from '@bit/misterdaniels.product-list.product-list';
 
 import ItemsList from './components/items-list';
+import ItemsListSlide from './components/items-list-slide';
+import ItemsListMotion from './components/items-list-motion';
 import App from './App';
 
 import * as serviceWorker from './serviceWorker';
@@ -14,6 +16,8 @@ ReactDOM.render(
     <App />
     <ProductList />
     <ItemsList />
+    <ItemsListSlide />
+    <ItemsListMotion />
   </React.StrictMode>,
   document.getElementById('root')
 );

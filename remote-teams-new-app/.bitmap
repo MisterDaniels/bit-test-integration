@@ -24,6 +24,47 @@
         "origin": "IMPORTED",
         "originallySharedDir": "src/components/product-list"
     },
+    "misterdaniels.tests/items-list-motion@0.0.1": {
+        "files": [
+            {
+                "relativePath": "src/components/items-list-motion/data.js",
+                "test": false,
+                "name": "data.js"
+            },
+            {
+                "relativePath": "src/components/items-list-motion/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/components/items-list-motion/styles.css",
+                "test": false,
+                "name": "styles.css"
+            }
+        ],
+        "mainFile": "src/components/items-list-motion/index.js",
+        "trackDir": "src/components/items-list-motion",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "misterdaniels.tests/items-list-slide@0.0.1": {
+        "files": [
+            {
+                "relativePath": "src/components/items-list-slide/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/components/items-list-slide/styles.css",
+                "test": false,
+                "name": "styles.css"
+            }
+        ],
+        "mainFile": "src/components/items-list-slide/index.js",
+        "trackDir": "src/components/items-list-slide",
+        "origin": "AUTHORED",
+        "exported": true
+    },
     "misterdaniels.tests/items-list@0.0.1": {
         "files": [
             {
